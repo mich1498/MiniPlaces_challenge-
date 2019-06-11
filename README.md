@@ -1,2 +1,2 @@
-# MiniPlaces_challenge-
-ConvNets for Image Classification using Pytorch on mini places dataset 
+# cs838
+Assignments for CS838 at UW-Madison
