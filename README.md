@@ -1,2 +1,2 @@
 # cs838
-Assignments for CS838 at UW-Madison
+Mini Project for CS838 at UW-Madison
